@@ -1,0 +1,2 @@
+C:\Users\Victor\OneDrive\maestria tec actual\computo en la nube\proyectosOMP\SolucionSumaArreglosParalela_Victor_Avila\SolucionSumaArreglosParalela\Debug\SolucionSumaArreglosParalela.exe
+C:\Users\Victor\OneDrive\maestria tec actual\computo en la nube\proyectosOMP\SolucionSumaArreglosParalela_Victor_Avila\SolucionSumaArreglosParalela_Victor_Avila\codigo\Debug\SumaParalela.exe
