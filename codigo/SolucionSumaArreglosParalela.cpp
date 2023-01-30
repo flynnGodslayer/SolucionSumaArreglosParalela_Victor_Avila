@@ -53,7 +53,7 @@ int main()
     cout << "\n\n\n Una vez definidos los arreglos, podemos hacer la suma de los 3 arreglos en paralelo con Open MP. ";
     cout << "\n Rellenaremos el arreglo_3 con la suma de arreglo_1 y arreglo_2. ";
 
-    // Pasamos a la variable pedazos el valor de la vazriable global chunk
+    // Pasamos a la variable pedazos el valor de la variable global chunk
     int pedazos = chunk;
     // inicializamos la variable del contador
     int j;
